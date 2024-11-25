@@ -1,0 +1,19 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.error{
+    background-color: red; 
+   
+}
+
+.ok{
+    background-color: green; 
+  
+}
+
+.error, .ok{
+    color: #ffffff;
+    text-align: center;
+}
